@@ -1,0 +1,63 @@
+* {
+  margin: 0px;
+}
+html {
+  scroll-behavior: smooth;
+}
+#sec0 {
+  height: 100px;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+  border-radius: 7px;
+}
+#sec1 {
+  height: 1000px;
+  width: 100%;
+  background-color: violet;
+  overflow: hidden;
+  background-image: url(./img/drift.jpg);
+  background-size: cover;
+  background-position: right bottom;
+}
+#sec2 {
+  height: 800px;
+  width: 100%;
+  background-color: rgb(253, 125, 253);
+  border-radius: 10px;
+}
+#sec3 {
+  height: 800px;
+  width: 100%;
+  background-color: rgb(245, 108, 245);
+}
+#sec4 {
+  height: 800px;
+  width: 100%;
+  background-color: rgb(247, 70, 247);
+}
+button {
+  height: 45px;
+  width: 100px;
+  background-color: #676469;
+  border-radius: 7px;
+}
+.arrow {
+  position: fixed;
+  height: 30px;
+  width: 30px;
+  bottom: 15px;
+  right: 15px;
+}
+.gtr0 {
+  position: absolute;
+  right: 100px;
+  top: 350px;
+  height: 800px;
+  width: 1150px; 
+}
+#btnColor{
+  background-color: #fff;
+}
+#btnColor1{
+  background-color: white;
+}
